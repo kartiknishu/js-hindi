@@ -23,7 +23,7 @@ const jsuser = {
 
 // console.log(jsuser.username);
 
-// console.log('Hello Js user, ${jsuser.username}');
+console.log(`Hello Js user, ${jsuser.username}`);
 
 const {username: name} = jsuser;
 
